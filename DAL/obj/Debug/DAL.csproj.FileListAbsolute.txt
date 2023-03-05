@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\DAL\bin\Debug\DAL.dll
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\DAL\bin\Debug\DAL.pdb
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\DAL\obj\Debug\DAL.dll
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\DAL\obj\Debug\DAL.pdb

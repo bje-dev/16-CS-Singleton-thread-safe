@@ -1,0 +1,10 @@
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\bin\Debug\CS Singleton thread safe.exe.config
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\bin\Debug\CS Singleton thread safe.exe
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\bin\Debug\CS Singleton thread safe.pdb
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\bin\Debug\SL.dll
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\bin\Debug\SL.pdb
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\obj\Debug\CS Singleton thread safe.csprojAssemblyReference.cache
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\obj\Debug\CS Singleton thread safe.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\obj\Debug\CS Singleton thread safe.csproj.CopyComplete
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\obj\Debug\CS Singleton thread safe.exe
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\CS Singleton thread safe\obj\Debug\CS Singleton thread safe.pdb

@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\SL\bin\Debug\SL.dll
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\SL\bin\Debug\SL.pdb
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\SL\obj\Debug\SL.csprojAssemblyReference.cache
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\SL\obj\Debug\SL.dll
+C:\Users\master\source\repos\16-CS-Singleton-thread-safe\SL\obj\Debug\SL.pdb
